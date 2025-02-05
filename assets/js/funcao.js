@@ -47,6 +47,7 @@ console.log(somar(10,10));
 
 
 
+
 //================== array =================//
 let ingredientes =[
     'Farinha',
