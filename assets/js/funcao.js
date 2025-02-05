@@ -40,6 +40,7 @@ function porcentagem(x, y){
 
 // }
 
+
 // forma reduzida para fazer um arrow function que retorna só uma linha
 const somar = (x,y) => x+y;
 console.log(somar(10,10));
